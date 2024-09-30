@@ -1,6 +1,6 @@
 # **TallerGitBasic**
 
-## *Taller de Git Básico 2024*
+## *Taller de Git Básico*
 
 Proyecto de Despliegue de aplicaciones para aprender GIT
 
